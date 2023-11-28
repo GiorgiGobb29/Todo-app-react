@@ -109,7 +109,7 @@ function App() {
 
 
     <header>
-      <h1>TODO :</h1>
+      <h1>TODO </h1>
       <img src={iconMode()} alt="" className="moon" onClick={toggleMode} />
     </header>
 
